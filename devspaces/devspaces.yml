@@ -37,4 +37,4 @@ sync-ignore: |
   .idea
   .DS_Store
   .data
-  node_modules
+  vendor
